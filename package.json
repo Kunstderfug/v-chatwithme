@@ -6,8 +6,6 @@
   "author": "Brian Mau",
   "scripts": {
     "start": "node server.js"
-    // "dev": "nodemon server.js",
-    // "debug": "node --nolazy --inspect --debug-brk=5858 ./server.js"
   },
   "dependencies": {
     "express": "^4.17.1",
